@@ -12,7 +12,6 @@ import os
 from models import storage
 from models.base_model import BaseModel
 
-
 class TestPlace(unittest.TestCase):
 
     """Test Cases for the Place class."""
